@@ -1,0 +1,19 @@
+{
+  "name": "pokelist-quiz-4bhif-fobba199l",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to implement a website that uses a RESTful Web API in the background. You have to create the website from scratch without any initial templates to build on. Feel free to use prior homeworks or samples from the course material as a starting point.",
+  "main": "Pokemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstropek-teaching/pokelist-quiz-4bhif-Fobba199l.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstropek-teaching/pokelist-quiz-4bhif-Fobba199l/issues"
+  },
+  "homepage": "https://github.com/rstropek-teaching/pokelist-quiz-4bhif-Fobba199l#readme"
+}
