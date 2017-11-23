@@ -1,4 +1,6 @@
 const pokemonList = document.getElementById('pokemons');
+var browserify = require('browserify');
+var b = browserify();
 
 (function() {
 fetch('https://pokeapi.co/api/v2/pokemon/').then(response => {
@@ -12,3 +14,4 @@ fetch('https://pokeapi.co/api/v2/pokemon/').then(response => {
   });
 });
 })();
+b.bundle().pipe(process.stdout);

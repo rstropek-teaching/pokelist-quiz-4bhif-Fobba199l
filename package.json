@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rstropek-teaching/pokelist-quiz-4bhif-Fobba199l/issues"
   },
-  "homepage": "https://github.com/rstropek-teaching/pokelist-quiz-4bhif-Fobba199l#readme"
+  "homepage": "https://github.com/rstropek-teaching/pokelist-quiz-4bhif-Fobba199l#readme",
+  "dependencies": {
+    "browser-run": "^4.0.4"
+  },
+  "devDependencies": {}
 }
